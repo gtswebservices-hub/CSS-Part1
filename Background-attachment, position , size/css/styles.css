@@ -1,0 +1,30 @@
+.div1{
+
+background-color: red;
+background-image: url("../Images/lemonad.png");
+background-repeat: no-repeat;
+/* background-attachment: scroll; */
+/* background-attachment: fixed; */
+/* background-position: left  top; */ /*left top , left buttom left center */
+/* background-position: left  center; */
+/* background-position: left  bottom; */
+/* background-position: right  top; */
+/* background-position: right  center; */
+/* background-position: right bottom; */
+/* background-position:  center top; */
+/* background-position:  center bottom; */
+/* background-position: center  center; */
+
+/* background-position: 50px 50px;*/  /* left and top*/
+/* background-position: 50% 50%; */ /*center center*/
+
+
+
+/* background-size: auto; */ /*same as its natural insertion */
+/* background-size: cover;  */
+
+
+/* background-size: contain;  */
+/* background-size: 300px 300px;   */
+background-size: 30% 50%;
+}

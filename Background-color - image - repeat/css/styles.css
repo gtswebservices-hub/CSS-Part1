@@ -1,0 +1,17 @@
+.div1{
+    background-color: red;
+}
+
+.div2{
+   background-color: rgb(0, 0, 0 , 10%); /* red green blue */
+}
+
+.div3{
+    background-color: #00FF00;
+}
+
+.div4{
+    height: 190px;
+    background-image: url("../Images/lemonad.png");
+    background-repeat: no-repeat; /* repeat-x repeat-y vertical and horizontal*/
+}
