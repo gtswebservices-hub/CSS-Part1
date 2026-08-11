@@ -1,0 +1,21 @@
+/*
+inline 
+
+-take full width if no width
+- add line break
+- respect padding margin width height 
+-allow elements before and after it 
+
+
+*/
+
+span{
+    background-color: #EEE;
+    /* width: 200px; */
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    height: 30px;
+    display: block;
+}
+

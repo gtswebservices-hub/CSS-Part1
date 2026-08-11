@@ -1,0 +1,21 @@
+/*
+inline 
+
+- do not respect the width and height
+- respect padding and margin only left and right
+- do not add line break
+- respect padding margin width height
+-allow elements before and after it 
+
+
+*/
+
+span{
+    background-color: #EEE;
+    /* width: 200px; */
+    padding: 10px;
+    margin: 10px;
+    width: 300px;
+    height: 30px;
+}
+
