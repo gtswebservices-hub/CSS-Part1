@@ -1,0 +1,7 @@
+p{
+    color: red;
+}
+/* nesting means that there is parent for the element */
+div p , .special{
+    color: blue;
+}

@@ -1,0 +1,17 @@
+p{
+    background-color: #9f9f9f;
+    text-align: center; /* left right*/
+    direction: ltr;
+    
+}
+
+.rtl{
+    background-color: #9f9f9f;
+    text-align: center; /* left right*/
+    direction: rtl;
+}
+img{
+    height: 30px;
+    width: 30px;
+    vertical-align: middle; /* top bottom*/
+}

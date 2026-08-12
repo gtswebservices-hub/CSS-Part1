@@ -1,0 +1,11 @@
+div{
+    background-color: #f9f9f9;
+    color: rebeccapurple;
+    text-shadow: 3px 3px 2px blue;
+}
+
+/*
+syntax => text-shadow : H-shadow , V-shadow , Blur, shadow color 
+
+horizontal and vertical shadow accept negatives
+*/

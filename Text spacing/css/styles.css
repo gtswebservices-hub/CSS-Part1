@@ -1,0 +1,12 @@
+div{
+    background-color: #9f9f9f;
+    /* letter-spacing: 25px; accept negative value*/
+    /* text-indent: 500px; */
+    /* line-height: 1.6; or 160% */
+    word-spacing: 5px;
+    width: 300px;
+    /* white-space: normal; */
+    /* white-space: nowrap; */
+    /* word-break: normal; */
+    word-break: break-all;
+}

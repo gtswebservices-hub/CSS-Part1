@@ -1,0 +1,23 @@
+div{
+    background-color: red;
+    margin: 10px 0;
+    
+}
+
+.second{
+    background-color: red;
+    margin: 10px 0;
+    display: none;
+}
+
+.third{
+    background-color: red;
+    margin: 10px 0;
+    visibility: hidden;
+}
+
+/*
+display none to hide some info to show it later
+
+while visibility for animation for example
+*/

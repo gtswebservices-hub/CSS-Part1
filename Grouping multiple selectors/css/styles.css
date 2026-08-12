@@ -1,0 +1,29 @@
+.one{
+border-bottom: 2px solid red;
+color: red;
+}
+
+.two{
+border-bottom: 2px solid green;
+color: green;
+}
+
+.three{
+border-bottom: 2px solid blue;
+color: blue;
+}
+
+.four{
+border-bottom: 2px solid pink;
+color: pink;
+}
+
+.one,
+.two,
+.three,
+.four,
+p{
+    padding: 40px;
+    margin: 30px 90px;
+    background-color: #EEE;
+}
