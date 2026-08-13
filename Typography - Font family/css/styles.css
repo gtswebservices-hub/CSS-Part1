@@ -1,0 +1,19 @@
+.with-ser {   
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.san-ser {   
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.with-ser ,
+.san-ser {
+    background-color: #ddd;
+    padding: 10px;
+}
+
+/*
+we can use the we need online via link putted in html
+or we download it locally or if dont need online sourcing
+
+*/

@@ -1,0 +1,73 @@
+/*
+    CSS UNITS
+    -px
+    -em measured bt times , example if the parent is 16px so 2em is 32px
+    -rem root time , who is the root? the root is html not the body look at html page 
+    -vw viewPort width
+    -percentage
+
+    Read
+    -vmin
+    -vh
+
+    default font size for webpage is 16px
+
+*/
+
+/*try px*/
+
+/* div{
+    font-size: 20px;
+} */
+
+/* div span{
+    font-size: x-small;
+} */
+
+/*try em*/
+/* body{
+    font-size: 100px;
+}
+
+div{
+    font-size: 20px;
+}
+
+div span{
+    font-size: 2em;
+} */
+
+/*try rem*/
+/* body{
+    font-size: 50px;
+}
+
+div{
+    font-size: 20px;
+}
+
+div span{
+    font-size: 2rem;
+} */
+
+/*try percentage*/
+/* body{
+    font-size: 50px;
+}
+
+div{
+    font-size: 20px;
+}
+
+div span{
+    font-size: 200%; also we can use 1.1 1.5 ...
+} */
+
+/*try vw*/
+
+div{
+    font-size: 5vw;  /*for responsive screens*/
+}
+
+
+

@@ -1,0 +1,14 @@
+/* div{
+font-style: italic;
+} */
+
+/* div{
+font-variant: small-caps;
+}
+p{
+    text-transform: uppercase;
+} */
+
+div{
+ font-weight: bold; /*we can use numbers  also we can change the bold of h1 h2 h3.. and make put it normal is removes the bold.. */
+}
