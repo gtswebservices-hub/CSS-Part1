@@ -1,0 +1,32 @@
+.parent{
+    background-color: red;
+    padding: 10px;
+    overflow: hidden;
+}
+
+.parent div{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: #eee;
+    /* display: inline-block; */
+    width: 25%;
+    float: left;
+
+}
+.clear{
+    clear: both;
+}
+
+/*
+this is if we want to put divs beside each others
+the inline-block and manage width is wrong
+this solves:
+if we remove the padding of the parent the hight will be zero
+maybe overflow: hidden solve the problem but the if we decrease the width the next element which is
+the paragraph moves upp and thats wrong.
+or if we have a drop down menu it will be cropped and not shown all 
+then the solution is:
+the clear inside a p element with the child divs
+
+*/

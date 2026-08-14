@@ -1,0 +1,74 @@
+/* in pixels*/
+
+body{
+    margin: 0;
+}
+
+div{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: #eee;
+    float: left;
+    /* width: 25%;*/ 
+    width: calc((100% - 90px) / 5);
+    margin-left: 15px;
+    
+
+} 
+
+/*
+
+Content width is 100%
+margin-left= ? %
+we need 6 spaces the one space is 15px so 15px * 6 =90px from content width
+then 100% - 90px =10 available space 
+
+5 elements the width is (100% - 90px) / 5 =  %
+
+
+if i have 4 elements if i need spaces before and after them we must now the number of spaces is
+number of elements+1 
+
+if we need spaces between them then the number of spaces is number of elements -1
+
+*/
+
+
+
+
+/* in percentage*/
+
+/* body{
+    margin: 0;
+}
+
+div{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: #eee;
+    float: left;
+    /* width: 25%; 
+    width: calc(88% / 5);
+    margin-left: 2%;
+    
+
+} */
+
+/*
+
+Content width is 100%
+margin-left= ? %
+we need 6 spaces the one space is 2% so 2% * 6 =12% from content width
+then 88% available space 
+
+5 elements the width is 88% / 5 =  17.6%
+
+
+if i have 4 elements if i need spaces before and after them we must now the number of spaces is
+number of elements+1 
+
+if we need spaces between them then the number of spaces is number of elements -1
+
+*/

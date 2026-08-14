@@ -1,0 +1,9 @@
+.one{
+    background-color: red;
+    opacity: 0.1;
+}
+
+.two{
+    background-color: rgb(255 0 0 / 10%); /*inspect color to make opacity */
+    
+}
